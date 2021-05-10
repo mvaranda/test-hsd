@@ -1,0 +1,12 @@
+#
+# Test config
+#
+# The framework adds the following: testID, TestDir
+#
+http_dir=httpdir
+TestName= Demo
+deployHtmlReports = no
+deployHtmlReportsDir = /var/www
+sendEmail = no
+
+

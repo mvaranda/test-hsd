@@ -1,0 +1,6 @@
+#
+# This file lists the filenames that will be loaded and run
+#
+testStartup.py
+MCDU/testPhonebook.py
+

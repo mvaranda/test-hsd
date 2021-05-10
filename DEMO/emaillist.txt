@@ -1,0 +1,6 @@
+#
+# Email list
+#
+#mv_email@yahoo.com
+m@varanda.ca
+
